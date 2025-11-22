@@ -4,7 +4,11 @@ public class Ciasswork {
 
 
     public static void main(String[] args) {
-        Scanner  scanner =  new Scanner(System.in);
+    Scanner  scanner =  new Scanner(System.in);
+        System.out.println("Пожалуйста,  ввдете число:");
+
+
+
         int n = scanner.nextInt();
 
         int sum = 100;
@@ -12,6 +16,8 @@ public class Ciasswork {
             sum = sum + i;
 
             System.out.println(sum);
+
+
 
 
         }

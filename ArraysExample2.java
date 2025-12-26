@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
+// вот тут ты забыл public
     class SpiralMatrix {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
+// переменные называем только с маленькой буквы
         int N;
         while (true) {
             System.out.print("Введите N (1 <= N <= 50): ");

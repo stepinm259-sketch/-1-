@@ -1,0 +1,3 @@
+db.url=jdbc:postgresql:// loclhost:5432 /agona-db
+db.username=postgres
+db.password = password

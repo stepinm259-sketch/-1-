@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                        http://xmlns.jacp.org/xml/ns/javaee/web-app_4_0.1.xsd"
+
+         version="4.0">
+
+
+    <servletmapping>avto.Servlet</servletmapping>
+    <url-pattern>/avto</url-pattern>
+
+   <servlet>
+
+     <servlet-name>avto.Servlet</servlet-name>
+<servlet-calass>>ru.itacademy.Servle</servlet-calass>
+
+
+   </servlet>
+
+
+
+</web-app>
